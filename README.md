@@ -1,4 +1,4 @@
-# Projeto: Landing Page Interativa
+# Projeto: Meu primeiro site interativo
 
 ## 🚀 Sobre o projeto
 
